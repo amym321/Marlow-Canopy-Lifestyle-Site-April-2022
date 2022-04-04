@@ -11,7 +11,7 @@
         "continue_shopping_page": "shopify:\/\/collections\/all",
         "cart_terms_page": "",
         "cart_notification_show": true,
-        "cart_notification_text": "<p>Order $30 or more to get <strong>free shipping!<\/strong><\/p>",
+        "cart_notification_text": "<p>Order $30 or more to get <strong>free shipping! <\/strong><a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><em>Satisfaction guaranteed!<\/em><\/a><\/p>",
         "cart_notification_pos": "",
         "shipping_calculator": true,
         "shipping_calculator_default_country": "Canada"
