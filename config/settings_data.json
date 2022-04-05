@@ -196,7 +196,7 @@
         "settings": {
           "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "🌈 FREE SHIPPING ON ORDERS OVER $30 🌈 SATISFACTION GUARANTEED 🌈",
+          "announcement_text": "🌈 FREE SHIPPING ON ORDERS OVER $30 | SATISFACTION GUARANTEED 🌈",
           "announcement_link": "shopify:\/\/collections\/all",
           "show_social_icons": false,
           "show_locale_selector": false,
