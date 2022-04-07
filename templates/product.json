@@ -114,10 +114,18 @@
         "grid_show_vendor": false,
         "products_per_row": 4
       }
+    },
+    "1649369485f536e06f": {
+      "type": "custom-liquid",
+      "settings": {
+        "no_margins": false,
+        "custom_liquid": "<script async type=\"text\/javascript\" src=\"https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RfrdFw\"><\/script>"
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1649369485f536e06f"
   ]
 }
