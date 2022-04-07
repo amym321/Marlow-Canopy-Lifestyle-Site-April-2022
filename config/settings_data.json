@@ -171,11 +171,11 @@
           "promo_products_heading": "You might like",
           "promo_products_product_1": "the-marlow-tote",
           "promo_products_product_2": "bundle-save",
-          "cart_summary_image_show": false,
+          "cart_summary_image_show": true,
           "cart_summary_use_tint": true,
-          "cart_summary_image_url": "",
-          "cart_summary_image_heading": "Promotion",
-          "cart_summary_image_subheading": "Read more"
+          "cart_summary_image_url": "shopify:\/\/collections\/shop-all",
+          "cart_summary_image_heading": "Spend over $30 and get free shipping!",
+          "cart_summary_image_subheading": "Shop Now"
         }
       },
       "popup": {
