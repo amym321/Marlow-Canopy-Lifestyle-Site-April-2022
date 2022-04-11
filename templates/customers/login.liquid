@@ -1,10 +1,29 @@
+{% style %}
+  .show-route {
+    display: block;
+  }
+  .hide-route {
+    display: none;
+  }
+{% endstyle %}
+
 <div class="section container" data-cc-animate>
   <div class="small-form-column">
     <div id="login">
       <h2 class="page-title">{{ 'customer.login.title' | t }}</h2>
 
       {% form 'customer_login' %}
-      {% if form.errors %}
+
+      {% comment %} redirect back to cart when origninating from cart - am. automatically appendss relevant info to url {% endcomment %}
+      <div id="cart-return" class="hide-route temp">
+        {% if cart.currency.iso_code  == 'USD' %}
+          <input id="" type="hidden" name="checkout_url" value="/us.wearemarlow.com/checkout"> 
+        {% else %}
+          <input id="" type="hidden" name="checkout_url" value="/checkout" > 
+        {% endif %}
+      </div>
+
+      {% if form.errors %}  
       <div class="notification errors">
         {{ form.errors | default_errors }}
       </div>

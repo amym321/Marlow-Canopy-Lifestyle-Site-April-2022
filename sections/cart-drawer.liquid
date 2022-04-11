@@ -7,6 +7,7 @@
     if cart_drawer_brightness < 190 and cart_drawer_alpha > 0
       assign cart_class = "cart-summary--dark"
     endif
+    assign subscription_flag = false
   -%}
 
   <div id="cart-summary" class="cart-summary {% if cart.item_count == 0 %}cart-summary--empty{% endif%} cart-summary--{{ settings.cart_type }} {{ cart_class }}">
@@ -84,25 +85,42 @@
             {% endif %}
           </div>
 
-          <div class="cart-summary__buttons cart-summary__section border-bottom">
-            {% if section.settings.checkout_goes_to_cart %}
-              <a href="{{ routes.cart_url }}" class="btn wide">
-                <span class="button-text">{{ 'layout.cart_summary.checkout' | t }}</span>
-                <span class="loading-spinner"></span>
-              </a>
-            {% else %}
-              <button type="submit" name="checkout" class="btn wide">
-                <span class="button-text">{{ 'layout.cart_summary.checkout' | t }}</span>
-                <span class="loading-spinner"></span>
-              </button>
+          {% comment %} flag for checkout button - am {% endcomment %}
+          {% for item in cart.items %}
+            {% if item.variant.title contains "Subscription" %}
+              {% assign subscription_flag = true %}
             {% endif %}
+          {% endfor %}
 
-            {% if section.settings.show_additional_checkout_buttons and additional_checkout_buttons and section.settings.cart_terms_page == blank %}
-              <div class="additional-checkout-buttons">
-                {{ content_for_additional_checkout_buttons }}
+          <div class="cart-summary__buttons cart-summary__section border-bottom">
+            {% if subscription_flag == false or customer.id %}
+              {% if section.settings.checkout_goes_to_cart %}
+                <a href="{{ routes.cart_url }}" class="btn wide">
+                  <span class="button-text">{{ 'layout.cart_summary.checkout' | t }}</span>
+                  <span class="loading-spinner"></span>
+                </a>
+              {% else %}
+                <button type="submit" name="checkout" class="btn wide">
+                  <span class="button-text">{{ 'layout.cart_summary.checkout' | t }}</span>
+                  <span class="loading-spinner"></span>
+                </button>
+              {% endif %}
+              {% if section.settings.show_additional_checkout_buttons and additional_checkout_buttons and section.settings.cart_terms_page == blank %}
+                <div class="additional-checkout-buttons">
+                  {{ content_for_additional_checkout_buttons }}
+                </div>
+              {% endif %}
+            {% comment %} if subscription item in cart and not logged in - am {% endcomment %}
+            {% else %}
+              <div id="login-route">
+                <a href="{{ routes.account_login_url }}" class="btn wide">
+                  <span class="button-text">{{ 'layout.cart_summary.checkout' | t }}</span>
+                  <span class="loading-spinner"></span>
+                </a>
               </div>
             {% endif %}
           </div>
+
         </form>
 
         <div class="cart-summary__item-list-header cart-summary__section cart-accordion-btn-container">

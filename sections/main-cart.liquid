@@ -5,6 +5,8 @@
   endif
 
   assign show_single_variant_details = true
+
+  assign subscription_flag_2 = false
 -%}
 
 <div class="section container" data-section-type="cart-template" data-cc-animate data-ajax-update="true">
@@ -223,7 +225,25 @@
               </label>
             {% endif %}
 
-            <button class="checkout-button checkout-button--lower" type="submit" name="checkout">{{ 'layout.cart_summary.checkout' | t }}</button>
+            {% comment %} flag for checkout button - am {% endcomment %}
+            {% for item in cart.items %}
+              {% if item.variant.title contains "Subscription" %}
+                {% assign subscription_flag_2 = true %}
+              {% endif %}
+            {% endfor %}
+
+            {% if subscription_flag_2 == false or customer.id %}
+              <button class="checkout-button checkout-button--lower" type="submit" name="checkout">{{ 'layout.cart_summary.checkout' | t }}</button>
+            {% comment %} if subscription item in cart and not logged in - am {% endcomment %}
+            {% else %}
+              <div id="login-route">
+                <a href="{{ routes.account_login_url }}" class="btn wide">
+                  <span class="button-text">{{ 'layout.cart_summary.checkout' | t }}</span>
+                  <span class="loading-spinner"></span>
+                </a>
+              </div>
+            {% endif %}
+
           </div>
 
           {% if section.settings.show_additional_checkout_buttons and additional_checkout_buttons and section.settings.cart_terms_page == blank %}
