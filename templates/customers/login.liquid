@@ -24,7 +24,6 @@
       {% endfor %}
       {% comment %} redirect to checkout when subscription items in cart (but not regular items). default redirect is to account page on login - am. automatically appends relevant info to url {% endcomment %}
       {% if subscription_flag_3 == true %}  
-        <h3>subscription_flag_3 = {{ subscription_flag_3 }}</h3>
         <div id="cart-return" class="hide-route temp">
           {% if cart.currency.iso_code  == 'USD' %}
             <input type="hidden" name="checkout_url" value="/us.wearemarlow.com/checkout"> 
