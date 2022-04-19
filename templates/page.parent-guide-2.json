@@ -243,7 +243,82 @@
         "full_width": false,
         "no_padding": false,
         "color_bg": "",
-        "alternate_bg_color": false
+        "alternate_bg_color": true
+      }
+    },
+    "1650398396182917b3": {
+      "type": "featured-product",
+      "blocks": {
+        "1650398396bc667ace-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1650398396bc667ace-2": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "1650398396bc667ace-4": {
+          "type": "variant_picker",
+          "settings": {
+            "prod_clicky_opt_names": "",
+            "stock_warning_show": false,
+            "stock_warning_limit": 5
+          }
+        },
+        "1650398396bc667ace-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": false,
+            "show_pickup_availability": true,
+            "show_backorder_text": true
+          }
+        },
+        "ed66a062-db7a-4a30-a7ea-aac05f46ae45": {
+          "type": "accordion",
+          "settings": {
+            "title": "Satisfaction Guaranteed",
+            "content": "<p>We love our products and hope you will too. However, if for any reason you aren’t satisfied with your purchase, you may request a refund. To learn more, check out our <a href=\"https:\/\/wearemarlow.com\/policies\/refund-policy\" target=\"_blank\" title=\"Marlow Refund Policy\"><span style=\"text-decoration:underline\">Return Policy<\/span><\/a>.<\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "dd05b22b-d02b-4748-9d8a-128c5d04438b": {
+          "type": "accordion",
+          "settings": {
+            "title": "Tampon Ingredients",
+            "content": "<p><strong>18 compact applicator tampons per box<\/strong><\/p><p><em>- Dermatologist tested<br\/>- Certified organic cotton<br\/>- Free of fragrance, dyes, synthetic fibres, and chlorine bleaching<br\/>- Plant-based applicator<br\/>- Compostable wrapper<\/em><\/p><p><strong>Ingredients: <\/strong>100% Organic Cotton<\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "5fb9944f-2804-42b4-83f1-bbbd6dd549a9": {
+          "type": "accordion",
+          "settings": {
+            "title": "Collapsible tab",
+            "content": "<p>Collapsible tab content<\/p>",
+            "page": "",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "1650398396bc667ace-1",
+        "1650398396bc667ace-2",
+        "1650398396bc667ace-4",
+        "1650398396bc667ace-5",
+        "ed66a062-db7a-4a30-a7ea-aac05f46ae45",
+        "dd05b22b-d02b-4748-9d8a-128c5d04438b",
+        "5fb9944f-2804-42b4-83f1-bbbd6dd549a9"
+      ],
+      "settings": {
+        "product": "bundle-save",
+        "page_width": "medium",
+        "prod_show_thumbnails": true,
+        "enable_video_looping": false,
+        "enable_product_image_zoom": true
       }
     }
   },
@@ -254,6 +329,7 @@
     "165039812886059c3d",
     "16503979362d18b327",
     "1650398157b90abcdb",
-    "16503983918193ea17"
+    "16503983918193ea17",
+    "1650398396182917b3"
   ]
 }
