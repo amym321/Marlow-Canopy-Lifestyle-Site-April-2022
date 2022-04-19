@@ -22,8 +22,8 @@
             "heading_h1": false,
             "text": "<p><em>Hi, we’re Marlow! <\/em><\/p><p>Inspired by our own difficulties using <br\/>tampons as kids through swimming <br\/>lessons, sports activities, and light <br\/>and heavy flow days, we decided to <br\/>create a product that would make <br\/>tampons easier to use. <\/p>",
             "enlarge_text": false,
-            "button_1_link": "",
-            "button_1_label": "",
+            "button_1_link": "shopify:\/\/collections\/shop-all",
+            "button_1_label": "Shop Now",
             "button_1_style": "primary",
             "button_2_link": "",
             "button_2_label": "",
@@ -57,16 +57,16 @@
           "settings": {
             "icon": "check_mark",
             "title": "Safe to Use",
-            "text": "<p>On all orders, no fuss<\/p>",
+            "text": "<p>Lubricant and tampons tested together for safety and compatability.<\/p>",
             "link": ""
           }
         },
         "16503975818064fb8e-1": {
           "type": "text_block",
           "settings": {
-            "icon": "chat_bubble",
-            "title": "Chat With Us",
-            "text": "<p>Talk to our team via chat<\/p>",
+            "icon": "leaf",
+            "title": "Clean Ingredients",
+            "text": "<p>100% organic cotton tampons, pH balanced lubricant without any irritants.<\/p>",
             "link": ""
           }
         },
@@ -74,8 +74,8 @@
           "type": "text_block",
           "settings": {
             "icon": "truck",
-            "title": "No-Contact Delivery",
-            "text": "<p>Free on orders over $100<\/p>",
+            "title": "A Smoother Experience",
+            "text": "<p>Lubricant designed to help tampon insertion, delivered straight to your door!<\/p>",
             "link": ""
           }
         }
@@ -86,21 +86,174 @@
         "16503975818064fb8e-2"
       ],
       "settings": {
-        "section_spacing": "extra_small",
-        "icon_alignment": "left",
-        "icon_width": 26,
-        "title_size": 14,
+        "section_spacing": "small",
+        "icon_alignment": "center",
+        "icon_width": 35,
+        "title_size": 18,
         "text_size": 14,
-        "icon_color": "#696969",
-        "text_color": "#515151",
-        "background_color": "#f4f2e9",
-        "mobile_stack": false
+        "icon_color": "#00b48a",
+        "text_color": "#302ba3",
+        "background_color": "#d1ce4c",
+        "mobile_stack": true
+      }
+    },
+    "165039812886059c3d": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "How It Works",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "16503979362d18b327": {
+      "type": "slideshow",
+      "blocks": {
+        "16503979352ff6b1fc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_It_Works_v4-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/How_It_Works_v3-03_cc8df885-0626-4059-a799-bdb60efb7756.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": false,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "bottom center",
+            "mobile_text_alignment": "bottom center"
+          }
+        },
+        "16503979352ff6b1fc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_It_Works_v4-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/How_It_Works_v3-04.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
+          }
+        },
+        "5147d296-9481-46e6-abc6-f444e76b8670": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_It_Works_v4-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/How_It_Works_v3-05.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16503979352ff6b1fc-0",
+        "16503979352ff6b1fc-1",
+        "5147d296-9481-46e6-abc6-f444e76b8670"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 420,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 3
+      }
+    },
+    "1650398157b90abcdb": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/shop-all",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": true
+      }
+    },
+    "16503983918193ea17": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><strong>Wait, a lubricant for tampons? Why? 🧐<br\/><\/strong>Yes, we made this lubricant <a href=\"https:\/\/wearemarlow.com\/blogs\/marlowdown\/5-reasons-why-your-tampon-may-hurt\" target=\"_blank\" title=\"https:\/\/wearemarlow.com\/blogs\/marlowdown\/5-reasons-why-your-tampon-may-hurt\"><span style=\"text-decoration:underline\">to help with inserting tampons<\/span><\/a>! When you are new to using tampons, it can be a scary and your muscles can tense up a lot. This can create friction & discomfort when inserting. The lubricant helps to create a smoother experience during those moments. Plus if you have a light flow or dryness, it can help make the process even more comfortable!<\/p><p><strong>Why tampons?<br\/><\/strong>There are <a href=\"https:\/\/wearemarlow.com\/blogs\/marlowdown\/choosing-the-right-menstrual-product-for-you\" target=\"_blank\" title=\"https:\/\/wearemarlow.com\/blogs\/marlowdown\/choosing-the-right-menstrual-product-for-you\"><span style=\"text-decoration:underline\">so many period product options<\/span><\/a>, such as tampons, pads, period underwear, and menstrual cups. Each have their own benefits! Tampons can be a great option for individuals who are active, who have a heavier flow, or simply find other period products uncomfortable to wear.<\/p><p><strong>Are you sure this is safe? 😮 <br\/><\/strong>Many gynecologists <a href=\"https:\/\/www.verywellhealth.com\/how-to-use-a-tampon-2721892\" target=\"_blank\" title=\"https:\/\/www.verywellhealth.com\/how-to-use-a-tampon-2721892\"><span style=\"text-decoration:underline\">recommend<\/span><\/a> using lubricant to insert a tampon. At Marlow, we collaborated with these medical professionals when designing our product. We also partnered with a research lab to test the safety of using our product. Our products are Health Canada & FDA approved.<\/p><p><strong>And it doesn’t affect the absorbency of the tampon? 😧<br\/><\/strong>Nope! The lubricant is applied to the applicator which prevents it from seeping into the cotton and affecting the absorbency of the tampon. Instead, it sits on the applicator and reduces friction when inserting.<\/p><p><strong>What are in the tampons & lubricant? How do I get them?<br\/><\/strong>Our tampons are 100% organic cotton, within a plant-based applicator. Our lubricant is water-based, pH balanced, and free of any irritants. To read more about our ingredients, visit the <a href=\"\/pages\/our-standards\" target=\"_blank\" title=\"Our Standard\"><span style=\"text-decoration:underline\">Our Standard<\/span><\/a> page and the <a href=\"\/collections\/shop-all\" target=\"_blank\" title=\"Shop All\"><span style=\"text-decoration:underline\">product pages<\/span><\/a> to learn more!<\/p>",
+        "enlarge_text": false,
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/shop-all",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": false,
+        "color_bg": "",
+        "alternate_bg_color": false
       }
     }
   },
   "order": [
     "main",
     "1650397153c2787768",
-    "1650397581e7ee3ab1"
+    "1650397581e7ee3ab1",
+    "165039812886059c3d",
+    "16503979362d18b327",
+    "1650398157b90abcdb",
+    "16503983918193ea17"
   ]
 }
