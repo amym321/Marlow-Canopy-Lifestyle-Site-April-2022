@@ -122,9 +122,9 @@
         "16503979352ff6b1fc-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_It_Works_v4-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/How_It_Works_v3-03_cc8df885-0626-4059-a799-bdb60efb7756.png",
-            "desktop_image_position": "center center",
+            "image": "shopify:\/\/shop_images\/How_It_Works-02.png",
+            "mobile_image": "shopify:\/\/shop_images\/How_It_Works-03.png",
+            "desktop_image_position": "center top",
             "mobile_image_position": "center center",
             "subheading": "",
             "title": "",
@@ -145,8 +145,8 @@
         "16503979352ff6b1fc-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_It_Works_v4-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/How_It_Works_v3-04.png",
+            "image": "shopify:\/\/shop_images\/How_It_Works-02.png",
+            "mobile_image": "shopify:\/\/shop_images\/How_It_Works-04.png",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
@@ -168,8 +168,8 @@
         "5147d296-9481-46e6-abc6-f444e76b8670": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_It_Works_v4-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/How_It_Works_v3-05.png",
+            "image": "shopify:\/\/shop_images\/How_It_Works-02.png",
+            "mobile_image": "shopify:\/\/shop_images\/How_It_Works-05.png",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
@@ -196,7 +196,7 @@
       ],
       "settings": {
         "height": "fixed",
-        "height_desktop": 400,
+        "height_desktop": 480,
         "height_mobile": 420,
         "full_width": true,
         "mobile_overlay_under": false,
