@@ -16,7 +16,7 @@
         "text": "<p>Don't worry, we've been there too! So, we created a <strong>guide that you can share with your parents!<\/strong> Simply send them the page linked below and let us do the talking for you 💚.<\/p>",
         "enlarge_text": false,
         "button_label": "Take me there!",
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/marlow-guide",
         "button_style": "primary",
         "text_alignment": "center",
         "full_width": false,
