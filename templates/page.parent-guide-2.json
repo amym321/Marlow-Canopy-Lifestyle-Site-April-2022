@@ -48,10 +48,59 @@
         "autoplay": true,
         "autoplay_speed": 7
       }
+    },
+    "1650397581e7ee3ab1": {
+      "type": "text-with-icons",
+      "blocks": {
+        "16503975818064fb8e-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "check_mark",
+            "title": "Safe to Use",
+            "text": "<p>On all orders, no fuss<\/p>",
+            "link": ""
+          }
+        },
+        "16503975818064fb8e-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat_bubble",
+            "title": "Chat With Us",
+            "text": "<p>Talk to our team via chat<\/p>",
+            "link": ""
+          }
+        },
+        "16503975818064fb8e-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "No-Contact Delivery",
+            "text": "<p>Free on orders over $100<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16503975818064fb8e-0",
+        "16503975818064fb8e-1",
+        "16503975818064fb8e-2"
+      ],
+      "settings": {
+        "section_spacing": "extra_small",
+        "icon_alignment": "left",
+        "icon_width": 26,
+        "title_size": 14,
+        "text_size": 14,
+        "icon_color": "#696969",
+        "text_color": "#515151",
+        "background_color": "#f4f2e9",
+        "mobile_stack": false
+      }
     }
   },
   "order": [
     "main",
-    "1650397153c2787768"
+    "1650397153c2787768",
+    "1650397581e7ee3ab1"
   ]
 }
