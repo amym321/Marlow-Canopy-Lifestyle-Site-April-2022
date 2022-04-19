@@ -201,7 +201,7 @@
         "full_width": true,
         "mobile_overlay_under": false,
         "image_overlay_style": "none",
-        "slide_transition": "slide",
+        "slide_transition": "fade",
         "slide_navigation": "arrows",
         "autoplay": true,
         "autoplay_speed": 3
