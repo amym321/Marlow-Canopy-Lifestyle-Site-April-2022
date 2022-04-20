@@ -246,6 +246,62 @@
         "alternate_bg_color": true
       }
     },
+    "1650486903aebe3a30": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "1650486903095ceb1d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Reviews-01.png",
+            "video": "",
+            "image_width": 250,
+            "title": "\"It's the first time I've been able to wear tampons comfortably... I would recommend this to anyone.\"",
+            "text": "<p><strong>-  <\/strong><em><strong>Megan<\/strong><\/em><\/p>",
+            "button_label": "Uses Marlow Tampons & Lubricant",
+            "link": "shopify:\/\/products\/bundle-save"
+          }
+        },
+        "1650486903095ceb1d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Reviews-02.png",
+            "video": "",
+            "image_width": 250,
+            "title": "\"Even on the lightest days, insertion was easy and painless. It really is your average tampon but better.\"",
+            "text": "<p><em><strong>- Cristina<\/strong><\/em><\/p>",
+            "button_label": "Uses Marlow Tampons & Lubricant",
+            "link": "shopify:\/\/products\/bundle-save"
+          }
+        },
+        "1650486903095ceb1d-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Reviews-03.png",
+            "video": "",
+            "image_width": 250,
+            "title": "\"Honestly have never had an easier and more pain-free experience than with these tampons.\"",
+            "text": "<p><em><strong>- Izzy<\/strong><\/em><\/p>",
+            "button_label": "Uses Marlow Tampons & Lubricant",
+            "link": "shopify:\/\/products\/bundle-save"
+          }
+        }
+      },
+      "block_order": [
+        "1650486903095ceb1d-0",
+        "1650486903095ceb1d-1",
+        "1650486903095ceb1d-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false
+      }
+    },
     "1650398396182917b3": {
       "type": "featured-product",
       "blocks": {
@@ -330,6 +386,7 @@
     "16503979362d18b327",
     "1650398157b90abcdb",
     "16503983918193ea17",
+    "1650486903aebe3a30",
     "1650398396182917b3"
   ]
 }
