@@ -91,7 +91,7 @@
         "icon_width": 35,
         "title_size": 18,
         "text_size": 14,
-        "icon_color": "#00b48a",
+        "icon_color": "#fdf3eb",
         "text_color": "#302ba3",
         "background_color": "#d1ce4c",
         "mobile_stack": true
@@ -297,8 +297,8 @@
         "5fb9944f-2804-42b4-83f1-bbbd6dd549a9": {
           "type": "accordion",
           "settings": {
-            "title": "Collapsible tab",
-            "content": "<p>Collapsible tab content<\/p>",
+            "title": "Lubricant Ingredients",
+            "content": "<p>The MarLube: a personal lubricant that can be used with tampons to aid in tampon insertion. Our bottle perfectly coats your tampon with one mess-free dip.<\/p><p><strong>Ingredients<\/strong>: Water, aloe barbadensis leaf extract*, sorbitol, hydroxyethyl cellulose, allantoin, lactic acid, tocopherol, potassium sorbate, stevia rebaudiana extract, paeonia albiflora root extract*, passiflora incarnata flower extract*, hyaluronic acid.<br\/><br\/><em>* Certified Organic Ingredients<\/em><\/p>",
             "page": "",
             "open": false
           }
