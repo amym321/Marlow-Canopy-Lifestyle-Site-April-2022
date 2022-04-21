@@ -302,6 +302,49 @@
         "alternate_bg_color": false
       }
     },
+    "16505710371db35836": {
+      "type": "slideshow",
+      "blocks": {
+        "16505710361f286b70-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_v3-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Our Blog",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "<p>From the ultimate guide to your first period, to how periods affect your skin and what the colour of your  blood means - if you want to learn about the basics of menstruation, we've got you covered.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "https:\/\/wearemarlow.com\/blogs\/marlowdown\/tagged\/my-first-period",
+            "button_1_label": "Read More",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top center",
+            "mobile_text_alignment": "top left"
+          }
+        }
+      },
+      "block_order": [
+        "16505710361f286b70-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 540,
+        "height_mobile": 600,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
     "1650398396182917b3": {
       "type": "featured-product",
       "blocks": {
@@ -387,6 +430,7 @@
     "1650398157b90abcdb",
     "16503983918193ea17",
     "1650486903aebe3a30",
+    "16505710371db35836",
     "1650398396182917b3"
   ]
 }
