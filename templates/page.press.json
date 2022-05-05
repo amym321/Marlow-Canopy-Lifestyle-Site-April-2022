@@ -51,6 +51,7 @@
     },
     "1647292737b91a0e8a": {
       "type": "gallery",
+      "disabled": true,
       "blocks": {
         "164729273771664bb1-0": {
           "type": "image",
@@ -97,11 +98,12 @@
         "75453eca-15b8-4f70-9d01-a3e7988c7930": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/press_copy.png",
             "video": "",
             "image_position": "center center",
             "enlarge_image": false,
-            "subheading": "Subheading",
-            "title": "Heading",
+            "subheading": "",
+            "title": "",
             "button_label": "",
             "link": "",
             "text_alignment": "center center"
@@ -124,18 +126,171 @@
         "button_style": "overlay",
         "enable_margin": true,
         "enable_carousel": false,
-        "image_overlay_style": "standard",
+        "image_overlay_style": "none",
         "alternate_bg_color": false,
         "caption_show": true,
         "caption_color": "#fdf3eb",
         "caption_bg": "#d1ce4c",
         "caption_opacity": 90
       }
+    },
+    "1651776715f2dc69ee": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "Read Holr Article",
+        "button_link": "https:\/\/holrmagazine.com\/marlow-is-shining-a-light-on-menstrual-and-sexual-wellness-with-revolutionary-products\/",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "1651776799767b384e": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Media with text",
+        "text": "<p>Use this text to share information about your store with your customers. Describe product, share announcements, or welcome customers to your store.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "text_width": 40,
+        "video": "",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "alternate_bg_color": false
+      }
+    },
+    "1651776811f5776a28": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "165177681113169c55-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/press.png",
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Girlboss",
+            "link": "https:\/\/girlboss.com\/blogs\/read\/women-leading-modern-menstrual-movement?_pos=1&_sid=bf6fe3ea3&_ss=r"
+          }
+        },
+        "165177681113169c55-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/press_copy.png",
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Holr Magazine",
+            "link": "https:\/\/holrmagazine.com\/marlow-is-shining-a-light-on-menstrual-and-sexual-wellness-with-revolutionary-products\/"
+          }
+        },
+        "165177681113169c55-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/press_copy_2.png",
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Vancouver Sun",
+            "link": "https:\/\/vancouversun.com\/life\/fashion-beauty\/canadian-brands-take-aim-at-same-old-period-product-game"
+          }
+        }
+      },
+      "block_order": [
+        "165177681113169c55-0",
+        "165177681113169c55-1",
+        "165177681113169c55-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "square",
+        "alternate_bg_color": false
+      }
+    },
+    "1651777337ad82a4fc": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "1651777337ce5045c8-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Press_2-01.png",
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "The Kit",
+            "link": "https:\/\/thekit.ca\/living\/health\/marlow-lubricated-tampons\/"
+          }
+        },
+        "1651777337ce5045c8-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "video": "",
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1651777337ce5045c8-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "video": "",
+            "image_width": 700,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651777337ce5045c8-0",
+        "1651777337ce5045c8-1",
+        "1651777337ce5045c8-2"
+      ],
+      "settings": {
+        "title": "Text columns with media",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false
+      }
     }
   },
   "order": [
     "main",
     "1647292455e48fbdc0",
-    "1647292737b91a0e8a"
+    "1647292737b91a0e8a",
+    "1651776715f2dc69ee",
+    "1651776799767b384e",
+    "1651776811f5776a28",
+    "1651777337ad82a4fc"
   ]
 }
