@@ -249,23 +249,25 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/press_1.png",
             "video": "",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "link": ""
+            "title": "",
+            "text": "",
+            "button_label": "Betakit",
+            "link": "https:\/\/betakit.com\/marlow-brings-innovative-d2c-menstrual-product-to-market\/"
           }
         },
         "1651777337ce5045c8-2": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Press_2-02.png",
             "video": "",
             "image_width": 700,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
+            "title": "",
+            "text": "",
+            "button_label": "Global News",
             "link": ""
           }
         }
@@ -277,9 +279,9 @@
       ],
       "settings": {
         "title": "Text columns with media",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "button_style": "primary",
-        "media_shape": "natural",
+        "media_shape": "square",
         "alternate_bg_color": false
       }
     }
