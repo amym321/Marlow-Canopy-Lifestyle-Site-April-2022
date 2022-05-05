@@ -229,6 +229,25 @@
         "alternate_bg_color": false
       }
     },
+    "165177749447362605": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "The modern menstrual movement is: A safe space.",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>“Our goal is to change ‘The Talk’ for the next generation from uncomfortable to refreshing. As menstruators ourselves, we know how ridiculous it is that menstruation is a subject steeped in whispers and misinformation, and we’re determined to change that. At Marlow, we foster a welcoming, supportive, and curious community which has allowed conversations about menstrual and sexual health to flourish.”<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": true,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
     "1651777337ad82a4fc": {
       "type": "text-columns-with-images",
       "blocks": {
@@ -278,7 +297,7 @@
         "1651777337ce5045c8-2"
       ],
       "settings": {
-        "title": "Text columns with media",
+        "title": "",
         "text_alignment": "center",
         "button_style": "primary",
         "media_shape": "square",
@@ -293,6 +312,7 @@
     "1651776715f2dc69ee",
     "1651776799767b384e",
     "1651776811f5776a28",
+    "165177749447362605",
     "1651777337ad82a4fc"
   ]
 }
