@@ -49,8 +49,8 @@
         "1647288580804b415f-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Press_Banner_v5-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/Press_Banner_v5-02.png",
+            "image": "shopify:\/\/shop_images\/Press_Banner_v7-01_93d65ac3-84e4-4475-bf62-d4a62d4a9a29.png",
+            "mobile_image": "shopify:\/\/shop_images\/Press_Banner_v7-02.png",
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
@@ -84,6 +84,25 @@
         "slide_navigation": "arrows",
         "autoplay": true,
         "autoplay_speed": 7
+      }
+    },
+    "165177774628f4190b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "Marlow in the News",
+        "button_link": "https:\/\/wearemarlow.com\/pages\/press",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
       }
     },
     "16472889259d75d7f9": {
@@ -768,6 +787,7 @@
     },
     "social_widget_39467": {
       "type": "social-widget",
+      "disabled": true,
       "settings": {
         "social_widget_id": "39467",
         "social_product_id": "none",
@@ -778,6 +798,7 @@
   "order": [
     "1478797384865",
     "164728858087231218",
+    "165177774628f4190b",
     "16472889259d75d7f9",
     "1640315686fd1acb6f",
     "16472905729e8a6ed7",
