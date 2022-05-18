@@ -145,7 +145,7 @@
         "button_link": "",
         "button_style": "primary",
         "text_alignment": "center",
-        "full_width": true,
+        "full_width": false,
         "no_padding": true,
         "color_bg": "",
         "alternate_bg_color": true
