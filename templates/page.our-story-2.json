@@ -322,14 +322,15 @@
         "16529104067057cd2a-0": {
           "type": "image",
           "settings": {
-            "mobile_image": "shopify:\/\/shop_images\/Story-01-01.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
+            "image": "shopify:\/\/shop_images\/09A0015_cf88813b-db5a-49d4-beff-52dd28e152ce.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Contact_Us-01.png",
+            "desktop_image_position": "center top",
+            "mobile_image_position": "center top",
             "subheading": "",
-            "title": "Want to take part in the conversation?",
-            "title_size": 40,
+            "title": "",
+            "title_size": 16,
             "heading_h1": false,
-            "text": "<p>From the products we create to the blogs we write, Marlow is driven by <strong>you. <\/strong>So, let us know what you want to see next.<\/p>",
+            "text": "<p>From the products we make to the blogs we write, Marlow is driven <br\/>by <strong>you. <\/strong>So, let us know what you want to see next.<\/p>",
             "enlarge_text": false,
             "button_1_link": "shopify:\/\/pages\/contact",
             "button_1_label": "Contact Us",
@@ -337,8 +338,8 @@
             "button_2_link": "",
             "button_2_label": "",
             "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center center"
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top right"
           }
         }
       },
@@ -348,9 +349,9 @@
       "settings": {
         "height": "fixed",
         "height_desktop": 600,
-        "height_mobile": 500,
+        "height_mobile": 340,
         "full_width": true,
-        "mobile_overlay_under": false,
+        "mobile_overlay_under": true,
         "image_overlay_style": "none",
         "slide_transition": "slide",
         "slide_navigation": "arrows",
