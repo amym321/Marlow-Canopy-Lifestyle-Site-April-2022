@@ -38,7 +38,7 @@
       ],
       "settings": {
         "height": "fixed",
-        "height_desktop": 600,
+        "height_desktop": 640,
         "height_mobile": 500,
         "full_width": true,
         "mobile_overlay_under": false,
