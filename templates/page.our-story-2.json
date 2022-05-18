@@ -14,7 +14,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Marlow-Lifestyle1125.jpg",
             "mobile_image": "shopify:\/\/shop_images\/Marlow-Lifestyle1155_dd378f88-c89d-4751-801d-e3c29cee37fa.jpg",
-            "desktop_image_position": "center center",
+            "desktop_image_position": "center top",
             "mobile_image_position": "center center",
             "subheading": "",
             "title": "We're here to make <br> the uncomfortable, comfortable.",
