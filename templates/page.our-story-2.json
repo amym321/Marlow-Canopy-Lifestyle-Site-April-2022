@@ -199,6 +199,25 @@
         "alternate_bg_color": false
       }
     },
+    "165290958593261fdf": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Join the Conversation",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
     "165290948483dc8fd9": {
       "type": "apps",
       "blocks": {
@@ -217,6 +236,85 @@
       ],
       "settings": {
       }
+    },
+    "165290961341bffd04": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Let's put an end to \"putting up with it.\"",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Got excruciating period cramps? Pain or discomfort when inserting tampons? Intense and difficult mood changes around your period? Ever experienced something like this and thought to yourself - well, that’s just how it is!<\/p><p><strong>We’re here to show you it doesn’t have to be that way. <\/strong><\/p><p>Our first product, lubricant and tampons designed to be used together, was driven by the fact that 86% of individuals have experienced pain or discomfort when inserting tampons. Instead of hacking the problem at home with DIY solutions, we decided that we deserved better. Whether you have a light flow, vaginal dryness, anxiety, or a medical condition like vaginismus, or you just find tampons straight up uncomfortable to insert, you still deserve the freedom that internal products provide.<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": false,
+        "color_bg": "",
+        "alternate_bg_color": true
+      }
+    },
+    "1652909615b8950fde": {
+      "type": "featured-product",
+      "blocks": {
+        "16529096155ad9fc29-0": {
+          "type": "vendor_and_type",
+          "disabled": true,
+          "settings": {
+            "prod_show_brand": true,
+            "prod_show_type": true
+          }
+        },
+        "16529096155ad9fc29-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16529096155ad9fc29-2": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "16529096155ad9fc29-3": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "16529096155ad9fc29-4": {
+          "type": "variant_picker",
+          "settings": {
+            "prod_clicky_opt_names": "",
+            "stock_warning_show": false,
+            "stock_warning_limit": 5
+          }
+        },
+        "16529096155ad9fc29-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": false,
+            "show_pickup_availability": true,
+            "show_backorder_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16529096155ad9fc29-0",
+        "16529096155ad9fc29-1",
+        "16529096155ad9fc29-2",
+        "16529096155ad9fc29-3",
+        "16529096155ad9fc29-4",
+        "16529096155ad9fc29-5"
+      ],
+      "settings": {
+        "product": "bundle-save",
+        "page_width": "medium",
+        "prod_show_thumbnails": true,
+        "enable_video_looping": false,
+        "enable_product_image_zoom": true
+      }
     }
   },
   "order": [
@@ -228,6 +326,9 @@
     "1652909348b10efed4",
     "1652909350522864c8",
     "1652909455f1b92a42",
-    "165290948483dc8fd9"
+    "165290958593261fdf",
+    "165290948483dc8fd9",
+    "165290961341bffd04",
+    "1652909615b8950fde"
   ]
 }
