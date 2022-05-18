@@ -199,15 +199,6 @@
         "alternate_bg_color": false
       }
     },
-    "1652909457ca2e77b6": {
-      "type": "instafeed",
-      "settings": {
-        "heading_font": "helvetica_n4",
-        "heading_size": 20,
-        "feed_width": 100,
-        "html_area": ""
-      }
-    },
     "165290948483dc8fd9": {
       "type": "apps",
       "blocks": {
@@ -237,7 +228,6 @@
     "1652909348b10efed4",
     "1652909350522864c8",
     "1652909455f1b92a42",
-    "1652909457ca2e77b6",
     "165290948483dc8fd9"
   ]
 }
