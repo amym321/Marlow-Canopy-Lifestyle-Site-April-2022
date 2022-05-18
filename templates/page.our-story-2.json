@@ -244,7 +244,7 @@
         "title": "Let's put an end to \"putting up with it.\"",
         "title_size": 40,
         "heading_h1": false,
-        "text": "<p>Got excruciating period cramps? Pain or discomfort when inserting tampons? Intense and difficult mood changes around your period? Ever experienced something like this and thought to yourself - well, that’s just how it is!<\/p><p><strong>We’re here to show you it doesn’t have to be that way. <\/strong><\/p><p>Our first product, lubricant and tampons designed to be used together, was driven by the fact that 86% of individuals have experienced pain or discomfort when inserting tampons. Instead of hacking the problem at home with DIY solutions, we decided that we deserved better. Whether you have a light flow, vaginal dryness, anxiety, or a medical condition like vaginismus, or you just find tampons straight up uncomfortable to insert, you still deserve the freedom that internal products provide.<\/p>",
+        "text": "<p>Got excruciating period cramps? Pain or discomfort when inserting tampons? Intense and difficult mood changes around your period? Ever experienced something like this and thought to yourself - well, that’s just how it is!<\/p><p><strong>We’re here to show you it doesn’t have to be that way. <\/strong><\/p><p>Our first product, lubricant and tampons designed to be used together, was driven by the fact that 86% of individuals have experienced pain or discomfort when inserting tampons. Instead of hacking the problem at home with DIY solutions, or simply ignoring our pain, we decided that we deserved better. Whether you have a light flow, vaginal dryness, anxiety, or a medical condition like vaginismus, or you just find tampons straight up uncomfortable to insert, you still deserve the freedom that internal products provide.<\/p>",
         "enlarge_text": false,
         "button_label": "",
         "button_link": "",
@@ -315,6 +315,48 @@
         "enable_video_looping": false,
         "enable_product_image_zoom": true
       }
+    },
+    "165291040757839818": {
+      "type": "slideshow",
+      "blocks": {
+        "16529104067057cd2a-0": {
+          "type": "image",
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/Story-01-01.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Want to take part in the conversation?",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "<p>From the products we create to the blogs we write, Marlow is driven by <strong>you. <\/strong>So, let us know what you want to see next.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/pages\/contact",
+            "button_1_label": "Contact Us",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16529104067057cd2a-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
     }
   },
   "order": [
@@ -329,6 +371,7 @@
     "165290958593261fdf",
     "165290948483dc8fd9",
     "165290961341bffd04",
-    "1652909615b8950fde"
+    "1652909615b8950fde",
+    "165291040757839818"
   ]
 }
