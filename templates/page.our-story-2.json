@@ -17,7 +17,7 @@
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
-            "title": "We're here to make <br> the uncomfortable, comfortable.",
+            "title": "We're here to make <br> the uncomfortable, <br> comfortable.",
             "title_size": 40,
             "heading_h1": false,
             "text": "",
@@ -258,6 +258,7 @@
     },
     "1652909615b8950fde": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "16529096155ad9fc29-0": {
           "type": "vendor_and_type",
