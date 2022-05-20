@@ -9,7 +9,7 @@
     "1652909348b10efed4": {
       "type": "rich-text",
       "settings": {
-        "subheading": "",
+        "subheading": "OUR STORY",
         "title": "It's time to change \"the talk\".",
         "title_size": 40,
         "heading_h1": false,
@@ -52,6 +52,25 @@
         "no_padding": true,
         "color_bg": "",
         "alternate_bg_color": false
+      }
+    },
+    "165290961341bffd04": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Let's put an end to \"putting up with it.\"",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Got intense period cramps? Pain or discomfort when inserting tampons? Confusing mood changes around period? Ever experienced something like this and thought to yourself - well, that’s just how it is!<\/p><p><strong>We’re here to show you it doesn’t have to be that way. <\/strong><\/p><p>Our first product, lubricant and tampons designed to be used together, was driven by the fact that so many individuals have experienced pain or discomfort when inserting tampons. Instead of hacking the problem at home with DIY solutions, or simply ignoring our pain, we decided that we deserved better. Whether you have a light flow, vaginal dryness, anxiety, a medical condition like vaginismus, or you just find tampons straight up uncomfortable to use, you still deserve the freedom that tampons provide. <\/p><p><em>So whether you’re going for a swim, headed to a work-out, or just want more comfort, we never want you to be held back by your period products.<\/em><\/p>",
+        "enlarge_text": false,
+        "button_label": "Shop All",
+        "button_link": "shopify:\/\/collections\/shop-all",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": false,
+        "color_bg": "",
+        "alternate_bg_color": true
       }
     },
     "16529079683ed4d6c9": {
@@ -148,7 +167,7 @@
             "desktop_image_position": "center center",
             "mobile_image_position": "center center",
             "subheading": "",
-            "title": "",
+            "title": "OUR TEAM",
             "title_size": 40,
             "heading_h1": false,
             "text": "",
@@ -159,8 +178,8 @@
             "button_2_link": "",
             "button_2_label": "",
             "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center center"
+            "text_alignment": "top left",
+            "mobile_text_alignment": "top left"
           }
         }
       },
@@ -235,25 +254,6 @@
         "0ba6ad05-c7dc-4bf2-ae4e-3bf48830706b"
       ],
       "settings": {
-      }
-    },
-    "165290961341bffd04": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "Let's put an end to \"putting up with it.\"",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "<p>Got intense period cramps? Pain or discomfort when inserting tampons? Confusing mood changes around period? Ever experienced something like this and thought to yourself - well, that’s just how it is!<\/p><p><strong>We’re here to show you it doesn’t have to be that way. <\/strong><\/p><p>Our first product, lubricant and tampons designed to be used together, was driven by the fact that so many individuals have experienced pain or discomfort when inserting tampons. Instead of hacking the problem at home with DIY solutions, or simply ignoring our pain, we decided that we deserved better. Whether you have a light flow, vaginal dryness, anxiety, a medical condition like vaginismus, or you just find tampons straight up uncomfortable to use, you still deserve the freedom that tampons provide. <\/p><p><em>So whether you’re going for a swim, headed to a work-out, or just want more comfort, we never want you to be held back by your period products.<\/em><\/p>",
-        "enlarge_text": false,
-        "button_label": "Shop All",
-        "button_link": "shopify:\/\/collections\/shop-all",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": false,
-        "no_padding": false,
-        "color_bg": "",
-        "alternate_bg_color": true
       }
     },
     "1652909615b8950fde": {
@@ -367,13 +367,13 @@
     "1652909348b10efed4",
     "1652909350522864c8",
     "1652909455f1b92a42",
+    "165290961341bffd04",
     "16529079683ed4d6c9",
     "16529082798f7655be",
     "1652908385e54c11e2",
     "16529084833e3abd72",
     "165290958593261fdf",
     "165290948483dc8fd9",
-    "165290961341bffd04",
     "1652909615b8950fde",
     "165291040757839818"
   ]
