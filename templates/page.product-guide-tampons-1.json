@@ -25,58 +25,52 @@
         "alternate_bg_color": false
       }
     },
-    "16539445076413ffb8": {
-      "type": "text-with-icons",
+    "165394492938947c37": {
+      "type": "slideshow",
       "blocks": {
-        "f915365e-8d02-4d25-acae-4e57a8403a4e": {
-          "type": "text_block",
+        "1653944929fa444529-0": {
+          "type": "image",
           "settings": {
-            "icon": "chat_bubble",
-            "title": "I've used tampons before, but this is my first time using a compact applicator tampon",
-            "text": "<p><\/p><p><em>...<\/em><\/p>",
-            "link": ""
-          }
-        },
-        "1653944507b71bf21a-2": {
-          "type": "text_block",
-          "settings": {
-            "icon": "question_mark",
-            "title": "I'm new to using tampons!",
-            "text": "<p><\/p><p><em>...<\/em><\/p>",
-            "link": ""
-          }
-        },
-        "1653944507b71bf21a-0": {
-          "type": "text_block",
-          "settings": {
-            "icon": "check_mark",
-            "title": "I've used compact applicator tampons just like these before!",
-            "text": "<p><\/p><p><em>...<\/em><\/p>",
-            "link": "shopify:\/\/products\/marlow-tampons"
+            "image": "shopify:\/\/shop_images\/How_It_Works_Tampon_1-01.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
           }
         }
       },
       "block_order": [
-        "f915365e-8d02-4d25-acae-4e57a8403a4e",
-        "1653944507b71bf21a-2",
-        "1653944507b71bf21a-0"
+        "1653944929fa444529-0"
       ],
       "settings": {
-        "section_spacing": "small",
-        "icon_alignment": "center",
-        "icon_width": 41,
-        "title_size": 15,
-        "text_size": 14,
-        "icon_color": "#00b48a",
-        "text_color": "#302ba3",
-        "background_color": "#fdf3eb",
-        "mobile_stack": false
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
       }
     }
   },
   "order": [
     "main",
     "1653944456a5262502",
-    "16539445076413ffb8"
+    "165394492938947c37"
   ]
 }
