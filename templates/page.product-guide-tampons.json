@@ -18,7 +18,7 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "full_width": true,
         "no_padding": true,
         "color_bg": "",
@@ -27,13 +27,14 @@
     },
     "16539445076413ffb8": {
       "type": "text-with-icons",
+      "disabled": true,
       "blocks": {
         "f915365e-8d02-4d25-acae-4e57a8403a4e": {
           "type": "text_block",
           "settings": {
             "icon": "chat_bubble",
-            "title": "I've used tampons before, but this is my first time using a compact applicator tampon",
-            "text": "<p><\/p><p><em>...<\/em><\/p>",
+            "title": "",
+            "text": "<p><span style=\"text-decoration:underline\"><strong>I've used tampons before, but this is my first time using a compact applicator tampon.<\/strong><\/span><\/p>",
             "link": ""
           }
         },
@@ -41,8 +42,8 @@
           "type": "text_block",
           "settings": {
             "icon": "question_mark",
-            "title": "I'm completely new to using tampons!",
-            "text": "<p><\/p><p><em>...<\/em><\/p>",
+            "title": "",
+            "text": "<p><span style=\"text-decoration:underline\"><strong>I'm completely new to using tampons!<\/strong><\/span><\/p>",
             "link": ""
           }
         },
@@ -50,8 +51,8 @@
           "type": "text_block",
           "settings": {
             "icon": "check_mark",
-            "title": "I've used compact applicator tampons just like these before!",
-            "text": "<p><\/p><p><em>...<\/em><\/p>",
+            "title": "",
+            "text": "<p><span style=\"text-decoration:underline\"><strong>I've used compact applicator tampons just like these before!<\/strong><\/span><\/p>",
             "link": "shopify:\/\/products\/marlow-tampons"
           }
         }
@@ -67,16 +68,70 @@
         "icon_width": 41,
         "title_size": 15,
         "text_size": 14,
-        "icon_color": "#fbe800",
-        "text_color": "#fdf3eb",
-        "background_color": "#00b48a",
+        "icon_color": "#00b48a",
+        "text_color": "#302ba3",
+        "background_color": "#fdf3eb",
         "mobile_stack": false
+      }
+    },
+    "1654657041c3232f1b": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "1654657041bf90d66f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "I've used a tampon before, but not a compact applicator tampon",
+            "link": ""
+          }
+        },
+        "1654657041bf90d66f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "This is my first time using a tampon",
+            "link": ""
+          }
+        },
+        "1654657041bf90d66f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "video": "",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "I've used compact applicator tampons just like these!",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654657041bf90d66f-0",
+        "1654657041bf90d66f-1",
+        "1654657041bf90d66f-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false
       }
     }
   },
   "order": [
     "main",
     "1653944456a5262502",
-    "16539445076413ffb8"
+    "16539445076413ffb8",
+    "1654657041c3232f1b"
   ]
 }
