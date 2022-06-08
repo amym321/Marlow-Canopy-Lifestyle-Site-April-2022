@@ -13,7 +13,7 @@
         "title": "Just tampons it is!",
         "title_size": 40,
         "heading_h1": false,
-        "text": "<p>Did you know that at Marlow, we use compact applicator tampons? These may look a bit different from the tampons you've used before.<\/p><p>In order for us to give you the best tips, let us know what stage you're at when it comes to using tampons.<\/p><p><\/p><p><strong>Select the category that best applies to you:<\/strong><\/p>",
+        "text": "<p>Did you know that at Marlow, we use <strong>compact applicator tampons<\/strong>? These may look a bit different from the tampons you've used before. In order for us to give you the best tips, let us know what stage you're at when it comes to using tampons.<\/p><p><\/p><p><strong>Select the category that best applies to you:<\/strong><\/p>",
         "enlarge_text": false,
         "button_label": "",
         "button_link": "",
@@ -41,7 +41,7 @@
           "type": "text_block",
           "settings": {
             "icon": "question_mark",
-            "title": "I'm new to using tampons!",
+            "title": "I'm completely new to using tampons!",
             "text": "<p><\/p><p><em>...<\/em><\/p>",
             "link": ""
           }
