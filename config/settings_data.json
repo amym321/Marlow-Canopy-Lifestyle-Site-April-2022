@@ -166,16 +166,16 @@
           "show_additional_checkout_buttons": true,
           "enable_empty_cart": false,
           "checkout_goes_to_cart": false,
-          "cart_terms_page": "",
-          "promo_products_show": true,
+          "cart_terms_page": "shopify:\/\/policies\/terms-of-service",
+          "promo_products_show": false,
           "promo_products_heading": "You might like",
           "promo_products_product_1": "the-marlow-tote",
           "promo_products_product_2": "bundle-save",
           "cart_summary_image_show": true,
-          "cart_summary_use_tint": true,
+          "cart_summary_use_tint": false,
           "cart_summary_image_url": "shopify:\/\/collections\/shop-all",
-          "cart_summary_image_heading": "Spend over $30 and get free shipping!",
-          "cart_summary_image_subheading": "Shop Now"
+          "cart_summary_image_heading": "FREE TAMPONS AND LUBRICANT",
+          "cart_summary_image_subheading": "Use the code \"WELCOMEMONTH\" at  checkout for 1 free month's supply when subscribing for the first time."
         }
       },
       "popup": {
@@ -196,7 +196,7 @@
         "settings": {
           "announcement_show": true,
           "announcement_home_only": false,
-          "announcement_text": "🌈 FREE SHIPPING ON ORDERS OVER $30 | SATISFACTION GUARANTEED 🌈",
+          "announcement_text": "🌈 FREE SHIPPING ON ORDERS OVER $30 | RISK-FREE SUBSCRIPTIONS 🌈",
           "announcement_link": "shopify:\/\/collections\/all",
           "show_social_icons": false,
           "show_locale_selector": false,
