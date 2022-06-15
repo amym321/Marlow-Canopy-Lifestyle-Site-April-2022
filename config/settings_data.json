@@ -166,7 +166,7 @@
           "show_additional_checkout_buttons": true,
           "enable_empty_cart": false,
           "checkout_goes_to_cart": false,
-          "cart_terms_page": "shopify:\/\/policies\/terms-of-service",
+          "cart_terms_page": "",
           "promo_products_show": false,
           "promo_products_heading": "You might like",
           "promo_products_product_1": "the-marlow-tote",
