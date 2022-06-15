@@ -11,7 +11,7 @@
         "continue_shopping_page": "shopify:\/\/collections\/all",
         "cart_terms_page": "",
         "cart_notification_show": true,
-        "cart_notification_text": "<p>Spend $30+ to get <strong>free shipping! <\/strong><a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><em>Satisfaction guaranteed!<\/em><\/a><\/p>",
+        "cart_notification_text": "<p>Spend $30+ to get <strong>free shipping! <\/strong><a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><em>Satisfaction guaranteed!<\/em><\/a><\/p><p><\/p><p>Plus, get <strong>1 month's supply of tampons & lubricant for free <\/strong>when you subscribe for the first time. Simply enter the code WELCOMEMONTH at checkout.<\/p>",
         "cart_notification_pos": "",
         "shipping_calculator": true,
         "shipping_calculator_default_country": "Canada"
