@@ -10,7 +10,7 @@
       "type": "custom-liquid",
       "settings": {
         "no_margins": false,
-        "custom_liquid": "<div data-tf-widget=\"n8y7tMvi\" data-tf-iframe-props=\"title=Marlow Product How To Guide\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
+        "custom_liquid": "<div data-tf-widget=\"n8y7tMvi\" data-tf-iframe-props=\"title=Marlow Product How To Guide\" data-tf-medium=\"snippet\" style=\"width:100%;height:800px;\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>"
       }
     }
   },
