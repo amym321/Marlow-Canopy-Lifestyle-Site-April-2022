@@ -43,161 +43,9 @@
         "autoplay_speed": 8
       }
     },
-    "164728858087231218": {
-      "type": "slideshow",
-      "blocks": {
-        "1647288580804b415f-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Press_Banner_v7-01_93d65ac3-84e4-4475-bf62-d4a62d4a9a29.png",
-            "mobile_image": "shopify:\/\/shop_images\/Press_Banner_v7-02.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "",
-            "title_size": 40,
-            "heading_h1": false,
-            "text": "",
-            "enlarge_text": false,
-            "button_1_link": "",
-            "button_1_label": "",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "1647288580804b415f-0"
-      ],
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 200,
-        "height_mobile": 120,
-        "full_width": false,
-        "mobile_overlay_under": true,
-        "image_overlay_style": "none",
-        "slide_transition": "slide",
-        "slide_navigation": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 7
-      }
-    },
-    "165177774628f4190b": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "",
-        "enlarge_text": false,
-        "button_label": "Marlow in the News",
-        "button_link": "https:\/\/wearemarlow.com\/pages\/press",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": false,
-        "no_padding": true,
-        "color_bg": "",
-        "alternate_bg_color": false
-      }
-    },
-    "16472889259d75d7f9": {
-      "type": "slideshow",
-      "blocks": {
-        "16472889251d5ccc99-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v2-02.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_v4-07.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center bottom",
-            "subheading": "",
-            "title": "Your health, <br> in your hands.",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p>No mystery ingredients,<br\/>more sustainable than<br\/>the status quo.<\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/products\/marlow-tampons",
-            "button_1_label": "Shop Organic Tampons",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "link",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top left"
-          }
-        },
-        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v2-03.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_-_Mobile-05_2751e729-732d-4daa-8bda-da1958d409b3.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "Live life on the <br> lubricated side.",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p>Because you shouldn't have <br\/>to put up with uncomfortable tampons. <\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/products\/bundle-save",
-            "button_1_label": "Learn More",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top left"
-          }
-        },
-        "16472889251d5ccc99-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v5-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "Got any burning <br> questions?",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p><em>Or burning sensations? <\/em>😜<em> <\/em>Although <br\/>your sex-ed may have been sub-par,<br\/>we promise our blog isn't.<\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/blogs\/marlowdown",
-            "button_1_label": "The Mar-Lowdown Blog",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top right"
-          }
-        }
-      },
-      "block_order": [
-        "16472889251d5ccc99-1",
-        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8",
-        "16472889251d5ccc99-0"
-      ],
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 500,
-        "height_mobile": 540,
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "image_overlay_style": "none",
-        "slide_transition": "fade",
-        "slide_navigation": "dots",
-        "autoplay": false,
-        "autoplay_speed": 4
-      }
-    },
     "1640315686fd1acb6f": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Asset_2.png",
         "image_link": "",
@@ -387,6 +235,68 @@
         "autoplay_speed": 2
       }
     },
+    "164728858087231218": {
+      "type": "slideshow",
+      "blocks": {
+        "1647288580804b415f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Press_Banner_v7-01_93d65ac3-84e4-4475-bf62-d4a62d4a9a29.png",
+            "mobile_image": "shopify:\/\/shop_images\/Press_Banner_v7-02.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": false,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1647288580804b415f-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 200,
+        "height_mobile": 120,
+        "full_width": false,
+        "mobile_overlay_under": true,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "165177774628f4190b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "Marlow in the News",
+        "button_link": "https:\/\/wearemarlow.com\/pages\/press",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
     "16402859970d112418": {
       "type": "text-columns-with-images",
       "disabled": true,
@@ -444,25 +354,6 @@
         "alternate_bg_color": false
       }
     },
-    "1640316771d637d1b5": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "<p><em>Marlow tampons and lubricant have been tested together for safety. Marlow's tampons are produced to medical device standards and approved by Health Canada. This product is not intended to diagnose, treat, cure or prevent any disease.<\/em><\/p>",
-        "enlarge_text": false,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": false,
-        "no_padding": true,
-        "color_bg": "",
-        "alternate_bg_color": true
-      }
-    },
     "164031701388493788": {
       "type": "slideshow",
       "blocks": {
@@ -504,6 +395,97 @@
         "slide_navigation": "arrows",
         "autoplay": true,
         "autoplay_speed": 7
+      }
+    },
+    "16472889259d75d7f9": {
+      "type": "slideshow",
+      "blocks": {
+        "16472889251d5ccc99-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v2-02.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_v4-07.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center bottom",
+            "subheading": "",
+            "title": "Your health, <br> in your hands.",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p>No mystery ingredients,<br\/>more sustainable than<br\/>the status quo.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/products\/marlow-tampons",
+            "button_1_label": "Shop Organic Tampons",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "link",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top left"
+          }
+        },
+        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v2-03.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_-_Mobile-05_2751e729-732d-4daa-8bda-da1958d409b3.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Live life on the <br> lubricated side.",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p>Because you shouldn't have <br\/>to put up with uncomfortable tampons. <\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/products\/bundle-save",
+            "button_1_label": "Learn More",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top left"
+          }
+        },
+        "16472889251d5ccc99-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v5-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Got any burning <br> questions?",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p><em>Or burning sensations? <\/em>😜<em> <\/em>Although <br\/>your sex-ed may have been sub-par,<br\/>we promise our blog isn't.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/blogs\/marlowdown",
+            "button_1_label": "The Mar-Lowdown Blog",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top right"
+          }
+        }
+      },
+      "block_order": [
+        "16472889251d5ccc99-1",
+        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8",
+        "16472889251d5ccc99-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 540,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "fade",
+        "slide_navigation": "dots",
+        "autoplay": false,
+        "autoplay_speed": 4
       }
     },
     "164031511140fc4ae5": {
@@ -561,6 +543,25 @@
         "grid_show_vendor": false,
         "show_view_all": true,
         "alternate_bg_color": false
+      }
+    },
+    "1640316771d637d1b5": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><em>Marlow tampons and lubricant have been tested together for safety. Marlow's tampons are produced to medical device standards and approved by Health Canada. This product is not intended to diagnose, treat, cure or prevent any disease.<\/em><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": true
       }
     },
     "1640315810fc122d95": {
@@ -685,7 +686,6 @@
         "e6f7d8d4-4802-4b5d-84c6-a1329f567e21": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "helvetica_n4",
             "heading_size": 20,
             "feed_width": 100,
             "html_area": ""
@@ -797,18 +797,18 @@
   },
   "order": [
     "1478797384865",
-    "164728858087231218",
-    "165177774628f4190b",
-    "16472889259d75d7f9",
     "1640315686fd1acb6f",
     "16472905729e8a6ed7",
     "164028610111be4388",
     "164746962355efab2a",
+    "164728858087231218",
+    "165177774628f4190b",
     "16402859970d112418",
-    "1640316771d637d1b5",
     "164031701388493788",
+    "16472889259d75d7f9",
     "164031511140fc4ae5",
     "1640316545d31b3074",
+    "1640316771d637d1b5",
     "1640315810fc122d95",
     "164031588423a750c2",
     "164031634358ca0eed",
