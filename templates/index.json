@@ -17,7 +17,7 @@
             "text": "<p>From the dry a** tampons, to the <br\/>awkward conversations, we’re <br\/>here to switch things <br\/>up and make your <br\/>period easier.<\/p>",
             "enlarge_text": false,
             "button_1_link": "shopify:\/\/collections\/shop-all",
-            "button_1_label": "Shop Now",
+            "button_1_label": "Shop Smoother Tampons",
             "button_1_style": "primary",
             "button_2_link": "",
             "button_2_label": "",
@@ -396,6 +396,25 @@
         "autoplay_speed": 7
       }
     },
+    "1640316771d637d1b5": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><em>Marlow tampons and lubricant have been tested together for safety. Marlow's tampons are produced to medical device standards and approved by Health Canada. This product is not intended to diagnose, treat, cure or prevent any disease.<\/em><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": true
+      }
+    },
     "16472889259d75d7f9": {
       "type": "slideshow",
       "blocks": {
@@ -542,25 +561,6 @@
         "grid_show_vendor": false,
         "show_view_all": true,
         "alternate_bg_color": false
-      }
-    },
-    "1640316771d637d1b5": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "<p><em>Marlow tampons and lubricant have been tested together for safety. Marlow's tampons are produced to medical device standards and approved by Health Canada. This product is not intended to diagnose, treat, cure or prevent any disease.<\/em><\/p>",
-        "enlarge_text": false,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": false,
-        "no_padding": true,
-        "color_bg": "",
-        "alternate_bg_color": true
       }
     },
     "1640315810fc122d95": {
@@ -804,10 +804,10 @@
     "165177774628f4190b",
     "16402859970d112418",
     "164031701388493788",
+    "1640316771d637d1b5",
     "16472889259d75d7f9",
     "164031511140fc4ae5",
     "1640316545d31b3074",
-    "1640316771d637d1b5",
     "1640315810fc122d95",
     "164031588423a750c2",
     "164031634358ca0eed",
