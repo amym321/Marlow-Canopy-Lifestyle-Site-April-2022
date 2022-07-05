@@ -14,7 +14,7 @@
             "title": "Experience periods, <br> comfortably.",
             "title_size": 50,
             "heading_h1": true,
-            "text": "<p>From the dry a** tampons, to the <br\/>awkward conversations, we’re <br\/>here to switch things <br\/>up and make your <br\/>period easier.<\/p>",
+            "text": "<p><a href=\"\/collections\/shop-all\" title=\"Shop All\">From the dry a** tampons, to the <br\/>awkward conversations, we’re <br\/>here to switch things <br\/>up and make your <br\/>period easier.<\/a><\/p>",
             "enlarge_text": false,
             "button_1_link": "shopify:\/\/collections\/shop-all",
             "button_1_label": "Shop Now",
@@ -71,19 +71,6 @@
     "16472905729e8a6ed7": {
       "type": "text-columns-with-images",
       "blocks": {
-        "164729057271d79c75-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Reviews-01.png",
-            "video": "",
-            "image_width": 220,
-            "title": "\"It's so exciting that more inclusive and environmentally mindful options like this exist!\"",
-            "text": "<p><em><strong>- Emma<\/strong><\/em><\/p>",
-            "button_label": "Uses Marlow Tampons",
-            "link": "shopify:\/\/products\/marlow-tampons"
-          }
-        },
         "164729057271d79c75-1": {
           "type": "text_block",
           "settings": {
@@ -95,6 +82,19 @@
             "text": "<p><em><strong>- Cristina C.<\/strong><\/em><\/p>",
             "button_label": "Uses Marlow Lubricant & Tampons",
             "link": "shopify:\/\/products\/bundle-save"
+          }
+        },
+        "164729057271d79c75-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Reviews-01.png",
+            "video": "",
+            "image_width": 220,
+            "title": "\"It's so exciting that more inclusive and environmentally mindful options like this exist!\"",
+            "text": "<p><em><strong>- Emma<\/strong><\/em><\/p>",
+            "button_label": "Uses Marlow Tampons",
+            "link": "shopify:\/\/products\/marlow-tampons"
           }
         },
         "164729057271d79c75-2": {
@@ -112,8 +112,8 @@
         }
       },
       "block_order": [
-        "164729057271d79c75-0",
         "164729057271d79c75-1",
+        "164729057271d79c75-0",
         "164729057271d79c75-2"
       ],
       "settings": {
@@ -234,125 +234,6 @@
         "autoplay_speed": 2
       }
     },
-    "164728858087231218": {
-      "type": "slideshow",
-      "blocks": {
-        "1647288580804b415f-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Press_Banner_v7-01_93d65ac3-84e4-4475-bf62-d4a62d4a9a29.png",
-            "mobile_image": "shopify:\/\/shop_images\/Press_Banner_v7-02.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "",
-            "title_size": 40,
-            "heading_h1": false,
-            "text": "",
-            "enlarge_text": false,
-            "button_1_link": "",
-            "button_1_label": "",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "center center",
-            "mobile_text_alignment": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "1647288580804b415f-0"
-      ],
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 200,
-        "height_mobile": 120,
-        "full_width": false,
-        "mobile_overlay_under": true,
-        "image_overlay_style": "none",
-        "slide_transition": "slide",
-        "slide_navigation": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 7
-      }
-    },
-    "165177774628f4190b": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "",
-        "enlarge_text": false,
-        "button_label": "Marlow in the News",
-        "button_link": "https:\/\/wearemarlow.com\/pages\/press",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": false,
-        "no_padding": true,
-        "color_bg": "",
-        "alternate_bg_color": false
-      }
-    },
-    "16402859970d112418": {
-      "type": "text-columns-with-images",
-      "disabled": true,
-      "blocks": {
-        "1640285996632c06be-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/10.png",
-            "video": "",
-            "image_width": 700,
-            "title": "1. Pull the inner tube out of the applicator",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "1640285996632c06be-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/11.png",
-            "video": "",
-            "image_width": 700,
-            "title": "2. Dip Marlow tampon into lubricant bottle",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        },
-        "1640285996632c06be-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/12.png",
-            "video": "",
-            "image_width": 700,
-            "title": "3. Insert for a smooth experience",
-            "text": "",
-            "button_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1640285996632c06be-0",
-        "1640285996632c06be-1",
-        "1640285996632c06be-2"
-      ],
-      "settings": {
-        "title": "",
-        "text_alignment": "center",
-        "button_style": "primary",
-        "media_shape": "natural",
-        "alternate_bg_color": false
-      }
-    },
     "164031701388493788": {
       "type": "slideshow",
       "blocks": {
@@ -415,9 +296,89 @@
         "alternate_bg_color": true
       }
     },
+    "16402859970d112418": {
+      "type": "text-columns-with-images",
+      "disabled": true,
+      "blocks": {
+        "1640285996632c06be-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/10.png",
+            "video": "",
+            "image_width": 700,
+            "title": "1. Pull the inner tube out of the applicator",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1640285996632c06be-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/11.png",
+            "video": "",
+            "image_width": 700,
+            "title": "2. Dip Marlow tampon into lubricant bottle",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "1640285996632c06be-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/12.png",
+            "video": "",
+            "image_width": 700,
+            "title": "3. Insert for a smooth experience",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640285996632c06be-0",
+        "1640285996632c06be-1",
+        "1640285996632c06be-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false
+      }
+    },
     "16472889259d75d7f9": {
       "type": "slideshow",
       "blocks": {
+        "16472889251d5ccc99-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v5-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Got any burning <br> questions?",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p><em>Or burning sensations? <\/em>😜<em> <\/em>Although <br\/>your sex-ed may have been sub-par,<br\/>we promise our blog isn't.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/blogs\/marlowdown",
+            "button_1_label": "The Mar-Lowdown Blog",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top right"
+          }
+        },
         "16472889251d5ccc99-1": {
           "type": "image",
           "settings": {
@@ -463,35 +424,12 @@
             "text_alignment": "top right",
             "mobile_text_alignment": "top left"
           }
-        },
-        "16472889251d5ccc99-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v5-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "Got any burning <br> questions?",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p><em>Or burning sensations? <\/em>😜<em> <\/em>Although <br\/>your sex-ed may have been sub-par,<br\/>we promise our blog isn't.<\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/blogs\/marlowdown",
-            "button_1_label": "The Mar-Lowdown Blog",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top right"
-          }
         }
       },
       "block_order": [
+        "16472889251d5ccc99-0",
         "16472889251d5ccc99-1",
-        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8",
-        "16472889251d5ccc99-0"
+        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8"
       ],
       "settings": {
         "height": "fixed",
@@ -504,6 +442,68 @@
         "slide_navigation": "dots",
         "autoplay": false,
         "autoplay_speed": 4
+      }
+    },
+    "164728858087231218": {
+      "type": "slideshow",
+      "blocks": {
+        "1647288580804b415f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Press_Banner_v7-01_93d65ac3-84e4-4475-bf62-d4a62d4a9a29.png",
+            "mobile_image": "shopify:\/\/shop_images\/Press_Banner_v7-02.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "",
+            "title_size": 40,
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": false,
+            "button_1_link": "",
+            "button_1_label": "",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "center center",
+            "mobile_text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1647288580804b415f-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 200,
+        "height_mobile": 120,
+        "full_width": false,
+        "mobile_overlay_under": true,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "165177774628f4190b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "Marlow in the News",
+        "button_link": "https:\/\/wearemarlow.com\/pages\/press",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
       }
     },
     "164031511140fc4ae5": {
@@ -800,12 +800,12 @@
     "16472905729e8a6ed7",
     "164028610111be4388",
     "164746962355efab2a",
-    "164728858087231218",
-    "165177774628f4190b",
-    "16402859970d112418",
     "164031701388493788",
     "1640316771d637d1b5",
+    "16402859970d112418",
     "16472889259d75d7f9",
+    "164728858087231218",
+    "165177774628f4190b",
     "164031511140fc4ae5",
     "1640316545d31b3074",
     "1640315810fc122d95",
