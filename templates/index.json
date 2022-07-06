@@ -277,25 +277,6 @@
         "autoplay_speed": 7
       }
     },
-    "1640316771d637d1b5": {
-      "type": "rich-text",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "title_size": 40,
-        "heading_h1": false,
-        "text": "<p><em>Marlow tampons and lubricant have been tested together for safety. Marlow's tampons are produced to medical device standards and approved by Health Canada. This product is not intended to diagnose, treat, cure or prevent any disease.<\/em><\/p>",
-        "enlarge_text": false,
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "text_alignment": "center",
-        "full_width": false,
-        "no_padding": true,
-        "color_bg": "",
-        "alternate_bg_color": true
-      }
-    },
     "16402859970d112418": {
       "type": "text-columns-with-images",
       "disabled": true,
@@ -351,97 +332,6 @@
         "button_style": "primary",
         "media_shape": "natural",
         "alternate_bg_color": false
-      }
-    },
-    "16472889259d75d7f9": {
-      "type": "slideshow",
-      "blocks": {
-        "16472889251d5ccc99-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v5-01.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "Got any burning <br> questions?",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p><em>Or burning sensations? <\/em>😜<em> <\/em>Although <br\/>your sex-ed may have been sub-par,<br\/>we promise our blog isn't.<\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/blogs\/marlowdown",
-            "button_1_label": "The Mar-Lowdown Blog",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top right"
-          }
-        },
-        "16472889251d5ccc99-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v2-02.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_v4-07.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center bottom",
-            "subheading": "",
-            "title": "Your health, <br> in your hands.",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p>No mystery ingredients,<br\/>more sustainable than<br\/>the status quo.<\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/products\/marlow-tampons",
-            "button_1_label": "Shop Organic Tampons",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "link",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top left"
-          }
-        },
-        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Objections_v2-03.png",
-            "mobile_image": "shopify:\/\/shop_images\/Objections_-_Mobile-05_2751e729-732d-4daa-8bda-da1958d409b3.png",
-            "desktop_image_position": "center center",
-            "mobile_image_position": "center center",
-            "subheading": "",
-            "title": "Live life on the <br> lubricated side.",
-            "title_size": 48,
-            "heading_h1": false,
-            "text": "<p>Because you shouldn't have <br\/>to put up with uncomfortable tampons. <\/p>",
-            "enlarge_text": false,
-            "button_1_link": "shopify:\/\/products\/bundle-save",
-            "button_1_label": "Learn More",
-            "button_1_style": "primary",
-            "button_2_link": "",
-            "button_2_label": "",
-            "button_2_style": "primary",
-            "text_alignment": "top right",
-            "mobile_text_alignment": "top left"
-          }
-        }
-      },
-      "block_order": [
-        "16472889251d5ccc99-0",
-        "16472889251d5ccc99-1",
-        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8"
-      ],
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 500,
-        "height_mobile": 540,
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "image_overlay_style": "none",
-        "slide_transition": "fade",
-        "slide_navigation": "dots",
-        "autoplay": false,
-        "autoplay_speed": 4
       }
     },
     "164728858087231218": {
@@ -640,6 +530,116 @@
         "alternate_bg_color": false
       }
     },
+    "1640316771d637d1b5": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><em>Marlow tampons and lubricant have been tested together for safety. Marlow's tampons are produced to medical device standards and approved by Health Canada. This product is not intended to diagnose, treat, cure or prevent any disease.<\/em><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": true
+      }
+    },
+    "16472889259d75d7f9": {
+      "type": "slideshow",
+      "blocks": {
+        "16472889251d5ccc99-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v5-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_v5-04.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Got any burning <br> questions?",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p><em>Or burning sensations? <\/em>😜<em> <\/em>Although <br\/>your sex-ed may have been sub-par,<br\/>we promise our blog isn't.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/blogs\/marlowdown",
+            "button_1_label": "The Mar-Lowdown Blog",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top right"
+          }
+        },
+        "16472889251d5ccc99-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v2-02.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_v4-07.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center bottom",
+            "subheading": "",
+            "title": "Your health, <br> in your hands.",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p>No mystery ingredients,<br\/>more sustainable than<br\/>the status quo.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/products\/marlow-tampons",
+            "button_1_label": "Shop Organic Tampons",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "link",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top left"
+          }
+        },
+        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Objections_v2-03.png",
+            "mobile_image": "shopify:\/\/shop_images\/Objections_-_Mobile-05_2751e729-732d-4daa-8bda-da1958d409b3.png",
+            "desktop_image_position": "center center",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "Live life on the <br> lubricated side.",
+            "title_size": 48,
+            "heading_h1": false,
+            "text": "<p>Because you shouldn't have <br\/>to put up with uncomfortable tampons. <\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/products\/bundle-save",
+            "button_1_label": "Learn More",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top right",
+            "mobile_text_alignment": "top left"
+          }
+        }
+      },
+      "block_order": [
+        "16472889251d5ccc99-0",
+        "16472889251d5ccc99-1",
+        "2ec39d3c-fb1d-4c66-9e17-a3649ee381d8"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 540,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "fade",
+        "slide_navigation": "dots",
+        "autoplay": false,
+        "autoplay_speed": 4
+      }
+    },
     "164031634358ca0eed": {
       "type": "rich-text",
       "settings": {
@@ -801,15 +801,15 @@
     "164028610111be4388",
     "164746962355efab2a",
     "164031701388493788",
-    "1640316771d637d1b5",
     "16402859970d112418",
-    "16472889259d75d7f9",
     "164728858087231218",
     "165177774628f4190b",
     "164031511140fc4ae5",
     "1640316545d31b3074",
     "1640315810fc122d95",
     "164031588423a750c2",
+    "1640316771d637d1b5",
+    "16472889259d75d7f9",
     "164031634358ca0eed",
     "1647387634bce133ef",
     "164796072711483073",
