@@ -361,13 +361,13 @@
 var afterpay_min = 0.04;  // As per your Afterpay contract.
 var afterpay_max = 2000.00;  // As per your Afterpay contract.
 
- var afterpay_product_selector = 'div > div.data-smartrr-top-price';  // The selector used to identify the price on the Product pages.
+ var afterpay_product_selector = 'div > div.data-smartrr-top-price > span:nth-child(1)';  // The selector used to identify the price on the Product pages.
 var afterpay_product_css = {'margin': '15px 0'};  // The CSS styling of the Afterpay assets on the Product pages.
 // var afterpay_logo_theme = 'black';  // The Afterpay logo colour. Can be 'colour' (default), 'black' or 'white'.
 // var afterpay_modal_open_icon = true;	 // If enabled, an "ⓘ" icon is displayed next to the Afterpay logo in place of the "More info" text.
 // var afterpay_cbt_enabled = true;  // As per your Afterpay contract. Enable to true to display Cross Border Trade artwork (for AU/NZ).
 
- var afterpay_variable_price_fallback_selector = 'div > div.data-smartrr-top-price';  // The selector used to identify the price on the Product pages if the Afterpay assets are disappearing after page-load or price is incorrect when a variant is selected.
+ var afterpay_variable_price_fallback_selector = 'div > div.data-smartrr-top-price > span:nth-child(1)';  // The selector used to identify the price on the Product pages if the Afterpay assets are disappearing after page-load or price is incorrect when a variant is selected.
  var afterpay_variable_price_fallback_method = "interval";  // Ensures the instalment price updates when the price changes. Can be "mutation" (default) or "interval".
 
 var afterpay_cart_integration_enabled = true;  // Enables/disables the Cart page display. Can be true or false (default).
