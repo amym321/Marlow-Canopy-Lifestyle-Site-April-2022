@@ -13,13 +13,14 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/5_Marlow-Lifestyle1794-01.png",
+            "mobile_image": "shopify:\/\/shop_images\/mobile_hero-02.png",
             "desktop_image_position": "center top",
-            "mobile_image_position": "center center",
+            "mobile_image_position": "right center",
             "subheading": "",
-            "title": "50% off your period care",
+            "title": "50% off your \nperiod care",
             "title_size": 46,
             "heading_h1": false,
-            "text": "<p>When you subscribe to any <br\/>Marlow products. Getting <br\/>through school <em>and<\/em> your <br\/>period is tough enough - let <br\/>us take this off your plate.<\/p>",
+            "text": "<p>When you subscribe to any <br\/>Marlow products. Getting <br\/>through school <em>and<\/em> your <br\/>period is tough enough, let <br\/>us take this off your plate.<\/p>",
             "enlarge_text": false,
             "button_1_link": "shopify:\/\/collections\/shop-all",
             "button_1_label": "Subscribe, Risk Free",
@@ -28,7 +29,7 @@
             "button_2_label": "",
             "button_2_style": "primary",
             "text_alignment": "top center",
-            "mobile_text_alignment": "top center"
+            "mobile_text_alignment": "top right"
           }
         }
       },
