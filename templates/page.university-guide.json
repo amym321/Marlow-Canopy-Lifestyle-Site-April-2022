@@ -256,6 +256,43 @@
         "show_author": false,
         "show_view_all": true
       }
+    },
+    "1660780449d00f339a": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Join the conversation.",
+        "title": "The Latest Drip.",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "1660780430645ffd3e": {
+      "type": "apps",
+      "blocks": {
+        "5a2f13c6-d408-4d18-b903-f83fe7d6a581": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "5a2f13c6-d408-4d18-b903-f83fe7d6a581"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -266,6 +303,8 @@
     "16607801992af3a42c",
     "1660779499fc7f1942",
     "1660780324a9da83b5",
-    "1660780371ea9b0519"
+    "1660780371ea9b0519",
+    "1660780449d00f339a",
+    "1660780430645ffd3e"
   ]
 }
