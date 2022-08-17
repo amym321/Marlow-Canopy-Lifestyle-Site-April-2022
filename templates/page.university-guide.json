@@ -12,7 +12,7 @@
         "1660777976fb595f70-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Marlow-Lifestyle1794_babd5dc4-9b09-42c6-aeeb-6948a5d97d82.png",
+            "image": "shopify:\/\/shop_images\/5_Marlow-Lifestyle1794-01.png",
             "desktop_image_position": "center top",
             "mobile_image_position": "center center",
             "subheading": "",
@@ -37,7 +37,7 @@
       ],
       "settings": {
         "height": "fixed",
-        "height_desktop": 620,
+        "height_desktop": 640,
         "height_mobile": 640,
         "full_width": true,
         "mobile_overlay_under": false,
