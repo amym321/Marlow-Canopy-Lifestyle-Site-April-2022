@@ -30,7 +30,7 @@
       "settings": {
         "title": "Our Blog - The Mar-Lowdown",
         "blog": "marlowdown",
-        "crop_ratio": "16-9",
+        "crop_ratio": "1-1",
         "show_author": false,
         "show_view_all": true
       }
