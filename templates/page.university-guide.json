@@ -5,9 +5,52 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "16607779778d0850d4": {
+      "type": "slideshow",
+      "blocks": {
+        "1660777976fb595f70-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marlow-Lifestyle1794_babd5dc4-9b09-42c6-aeeb-6948a5d97d82.png",
+            "desktop_image_position": "center top",
+            "mobile_image_position": "center center",
+            "subheading": "",
+            "title": "50% off your period care",
+            "title_size": 46,
+            "heading_h1": false,
+            "text": "<p>When you subscribe to any <br\/>Marlow products. Getting <br\/>through school <em>and<\/em> your <br\/>period is tough enough - let <br\/>us take this off your plate.<\/p>",
+            "enlarge_text": false,
+            "button_1_link": "shopify:\/\/collections\/shop-all",
+            "button_1_label": "Subscribe, Risk Free",
+            "button_1_style": "primary",
+            "button_2_link": "",
+            "button_2_label": "",
+            "button_2_style": "primary",
+            "text_alignment": "top center",
+            "mobile_text_alignment": "top center"
+          }
+        }
+      },
+      "block_order": [
+        "1660777976fb595f70-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 620,
+        "height_mobile": 640,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "image_overlay_style": "none",
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16607779778d0850d4"
   ]
 }
