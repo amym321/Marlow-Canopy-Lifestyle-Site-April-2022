@@ -48,10 +48,59 @@
         "autoplay": true,
         "autoplay_speed": 7
       }
+    },
+    "1660779499fc7f1942": {
+      "type": "text-with-icons",
+      "blocks": {
+        "16607794999e99e9dc-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "heart",
+            "title": "Canadia & Female Founded",
+            "text": "",
+            "link": ""
+          }
+        },
+        "16607794999e99e9dc-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "check_mark",
+            "title": "Innovative & comfortable products",
+            "text": "",
+            "link": ""
+          }
+        },
+        "16607794999e99e9dc-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "leaf",
+            "title": "More sustainable than the status quo",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16607794999e99e9dc-0",
+        "16607794999e99e9dc-1",
+        "16607794999e99e9dc-2"
+      ],
+      "settings": {
+        "section_spacing": "extra_small",
+        "icon_alignment": "center",
+        "icon_width": 26,
+        "title_size": 14,
+        "text_size": 14,
+        "icon_color": "#302ba3",
+        "text_color": "#302ba3",
+        "background_color": "#fdf3eb",
+        "mobile_stack": true
+      }
     }
   },
   "order": [
     "main",
-    "16607779778d0850d4"
+    "16607779778d0850d4",
+    "1660779499fc7f1942"
   ]
 }
