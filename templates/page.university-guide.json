@@ -381,7 +381,7 @@
           "type": "shopify:\/\/apps\/easy-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
           "settings": {
             "heading": "",
-            "heading_text_type": "h4",
+            "heading_text_type": "h2",
             "heading_alignment": "left",
             "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"University FAQ\" id=\"ef-faqs-62fd8151bceec67f2e452b85\"><\/div>",
             "faqs_width": 100
@@ -392,13 +392,6 @@
         "1d4c0677-88ff-4019-9915-a5aa298925bc"
       ],
       "settings": {
-      }
-    },
-    "16607830864c8157e3": {
-      "type": "custom-liquid",
-      "settings": {
-        "no_margins": false,
-        "custom_liquid": ""
       }
     }
   },
@@ -416,7 +409,6 @@
     "1660780449d00f339a",
     "1660780430645ffd3e",
     "16607805291d8ebc09",
-    "16607806438df882a3",
-    "16607830864c8157e3"
+    "16607806438df882a3"
   ]
 }
