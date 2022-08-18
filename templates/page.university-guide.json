@@ -264,7 +264,7 @@
         "title": "The Latest Drip.",
         "title_size": 40,
         "heading_h1": false,
-        "text": "",
+        "text": "<p><a href=\"https:\/\/www.instagram.com\/marlow\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/marlow\/\"><span style=\"text-decoration:underline\">@marlow<\/span><\/a> | Instagram <br\/><a href=\"https:\/\/www.tiktok.com\/@wearemarlow?_d=secCgwIARCbDRjEFSACKAESPgo87SCsTZOO5gykHlpkrPO1%2BJ33X81INes0NFhEYaOKGrMqv4vZHLOzKxq7zpRY6R%2F1lFh%2FztRS0b6wzCJiGgA%3D&checksum=6f1793db60e24454c2b4e7276c224c5be1f526cd557d307b938c757e59b6c601&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAaBSBeGls1m2JWPdgCXrIB2ZsJbG57-dMMC-6T7gg5t6yL3fGzPN1en2KIeR57mXL&share_app_id=1233&share_item_id=7041741535213309189&share_link_id=6C588E81-3D97-4AAE-8FB1-2378B4537111&source=h5_m&timestamp=1640194108&tt_from=copy&u_code=d9jjjhdgfcmf9c&user_id=6768630414094484486&utm_campaign=client_share&utm_medium=ios&utm_source=copy&_r=1\" target=\"_blank\" title=\"https:\/\/www.tiktok.com\/@wearemarlow?_d=secCgwIARCbDRjEFSACKAESPgo87SCsTZOO5gykHlpkrPO1%2BJ33X81INes0NFhEYaOKGrMqv4vZHLOzKxq7zpRY6R%2F1lFh%2FztRS0b6wzCJiGgA%3D&checksum=6f1793db60e24454c2b4e7276c224c5be1f526cd557d307b938c757e59b6c601&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAaBSBeGls1m2JWPdgCXrIB2ZsJbG57-dMMC-6T7gg5t6yL3fGzPN1en2KIeR57mXL&share_app_id=1233&share_item_id=7041741535213309189&share_link_id=6C588E81-3D97-4AAE-8FB1-2378B4537111&source=h5_m&timestamp=1640194108&tt_from=copy&u_code=d9jjjhdgfcmf9c&user_id=6768630414094484486&utm_campaign=client_share&utm_medium=ios&utm_source=copy&_r=1\"><span style=\"text-decoration:underline\">@wearemarlow<\/span><\/a> | TikTok<\/p>",
         "enlarge_text": false,
         "button_label": "",
         "button_link": "",
@@ -293,6 +293,45 @@
       ],
       "settings": {
       }
+    },
+    "16607805291d8ebc09": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Get Involved!",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Want your school to stock Marlow products?<\/p><p>Maybe you want to join or host a community event? <\/p><p>Or become a campus ambassador?<\/p><p><strong>We love connecting with you - read more about how to below!<\/strong><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "text_alignment": "center",
+        "full_width": false,
+        "no_padding": true,
+        "color_bg": "",
+        "alternate_bg_color": false
+      }
+    },
+    "16607806438df882a3": {
+      "type": "apps",
+      "blocks": {
+        "1d4c0677-88ff-4019-9915-a5aa298925bc": {
+          "type": "shopify:\/\/apps\/easy-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_text_type": "h2",
+            "heading_alignment": "left",
+            "faq_embed_code": "Copy paste embed code you received from app.",
+            "faqs_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "1d4c0677-88ff-4019-9915-a5aa298925bc"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -305,6 +344,8 @@
     "1660780324a9da83b5",
     "1660780371ea9b0519",
     "1660780449d00f339a",
-    "1660780430645ffd3e"
+    "1660780430645ffd3e",
+    "16607805291d8ebc09",
+    "16607806438df882a3"
   ]
 }
