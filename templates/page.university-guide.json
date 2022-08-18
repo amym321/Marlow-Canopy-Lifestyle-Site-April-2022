@@ -381,7 +381,7 @@
           "type": "shopify:\/\/apps\/easy-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
           "settings": {
             "heading": "",
-            "heading_text_type": "h2",
+            "heading_text_type": "h4",
             "heading_alignment": "left",
             "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"University FAQ\" id=\"ef-faqs-62fd8151bceec67f2e452b85\"><\/div>",
             "faqs_width": 100
