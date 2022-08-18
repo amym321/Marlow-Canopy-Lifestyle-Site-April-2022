@@ -380,7 +380,7 @@
         "1d4c0677-88ff-4019-9915-a5aa298925bc": {
           "type": "shopify:\/\/apps\/easy-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
           "settings": {
-            "heading": "Frequently Asked Questions",
+            "heading": "",
             "heading_text_type": "h2",
             "heading_alignment": "left",
             "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"University FAQ\" id=\"ef-faqs-62fd8151bceec67f2e452b85\"><\/div>",
